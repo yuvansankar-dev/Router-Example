@@ -1,0 +1,20 @@
+#card {
+  padding: 30px;
+  border: 0px solid;
+  border-radius: 15px;
+  background-color: rgb(255, 255, 237);
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 10px 0px;
+  width: 350px;
+  margin: 20px;
+}
+.batch-id {
+  text-align: center;
+  width: 100px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: antiquewhite;
+  border-radius: 6px;
+  margin-top: 10px;
+}
